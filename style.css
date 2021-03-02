@@ -2,4 +2,15 @@ body
 {
     background-color: rgb(19, 105, 69);
     color: wheat;
+    font-size: 40px;
+}
+.fejlec li
+{
+    float: left;
+    padding: 0px;
+    text-align: center;
+    background-color: rgb(19, 105, 69);
+    color:  wheat;
+    
+
 }
