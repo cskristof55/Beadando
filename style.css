@@ -2,7 +2,7 @@ body
 {
     background-color: rgb(19, 105, 69);
     color: wheat;
-    font-size: 40px;
+    font-size: 20px;
     background-image: image("hatter.jpg");
 }
 .fejlec li
